@@ -1,3 +1,4 @@
+// i can help with implementing the new GUI and debugging this code on thursday or later wednesday night  -Andrew
 import java.io.*;
 import javax.swing.*;
 import java.awt.*;
